@@ -1,1 +1,49 @@
+body {
+   background-color:#323030 ;
+    color: white ;
+}
 
+
+ .root2
+        {
+            border: 3px solid #E52525;
+            left: 5px;
+            top: 5px;
+            bottom: 5px;
+        }
+
+.root {
+          
+            border: 3px #E52525;
+            position: absolute;
+            right: 5px;
+            top: 5px;
+            bottom: 5px;
+            left: 30%;
+            margin-left:15px;
+            
+        }
+        
+a:link {
+  color: white; 
+  background-color: transparent; 
+  text-decoration: none;
+}
+
+a:visited {
+  color: pink;
+  background-color: transparent;
+  text-decoration: none;
+}
+
+a:hover {
+  color: red;
+  background-color: transparent;
+  text-decoration: underline;
+}
+
+a:active {
+  color: yellow;
+  background-color: transparent;
+  text-decoration: underline;
+}
